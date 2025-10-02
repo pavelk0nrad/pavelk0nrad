@@ -44,15 +44,15 @@ My background combines education, design, technology and multimedia — helping 
 
 ---
 
-## 🌍 Languages
+## Languages
 - Czech – native  
 - English – B2 (professional communication)  
 
 ---
 
-## 🔗 Let’s Connect
+## Let’s Connect
 - [Portfolio / Website](https://pavelkonrad.cz)  
-- [LinkedIn](https://www.linkedin.com/in/pavelk0nrad/)  
+- [LinkedIn](https://www.linkedin.com/in/pavekonrad/)  
 - [GitLab Projects](https://gitlab.com/pavelk0nrad)  
 
 ---
